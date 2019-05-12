@@ -1,2 +1,2 @@
 # Project-Nexus
-https://img.shields.io/github/repo-size/whizardxd/Project-Nexus.svg
+![repo size](https://img.shields.io/github/repo-size/whizardxd/Project-Nexus.svg)
