@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: whizardxd/Project-Nexus
+  repo: WhizardXD/Project-Nexus
 
 publish_mode: editorial_workflow
 
